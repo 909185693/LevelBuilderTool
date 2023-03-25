@@ -1,0 +1,8 @@
+{
+	"BuildId": "17155196",
+	"Modules": 
+	{
+		"LevelBuilderTool": "UE4Editor-LevelBuilderTool.dll",
+		"LevelBuilderToolEditor": "UE4Editor-LevelBuilderToolEditor.dll"
+	}
+}

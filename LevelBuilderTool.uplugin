@@ -1,0 +1,29 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "LevelBuilderTool",
+	"Description": "Merge StaticMeshActor to InstanceMesh",
+	"Category": "Other",
+	"CreatedBy": "ZengJia",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": false,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "LevelBuilderTool",
+			"Type": "Runtime",
+			"LoadingPhase": "PreDefault"
+		},
+		{
+			"Name": "LevelBuilderToolEditor",
+			"Type": "Editor",
+			"LoadingPhase": "PreDefault"
+		}
+	]
+}
