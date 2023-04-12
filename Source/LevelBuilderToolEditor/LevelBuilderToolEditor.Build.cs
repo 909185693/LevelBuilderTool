@@ -42,6 +42,9 @@ public class LevelBuilderToolEditor : ModuleRules
 				"InputCore",
 				"UnrealEd",
 				"LevelEditor",
+				#if UE_5_0_OR_LATER
+				"EditorFramework"
+				#endif
 				// ... add private dependencies that you statically link with here ...	
 			}
 			);
